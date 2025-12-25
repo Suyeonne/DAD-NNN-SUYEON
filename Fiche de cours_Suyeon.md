@@ -141,7 +141,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 </p>
 <p align="right"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
 
-
 - Conseil : commencer par le dessin.
 
 - Questionnement sur la présence d’objets du quotidien à l’intérieur du labyrinthe et sur leur raison d’être.
@@ -162,7 +161,9 @@ Questionnement sur la manière de transformer un motif de labyrinthe précédemm
 
 - Recherche de temples bouddhistes construits selon une structure de mandala.
 
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/Robin/references/1520155068525.jpeg" alt="1520155068525.jpeg" data-align="center" width="305">
+<p align="center">
+  <img src="/img/mandala2.jpeg" width="270">
+</p>
 
 *Borobudur, temple bouddhiste conçu selon une structure de mandala*
 
@@ -209,9 +210,13 @@ Suite à cette proposition, j’ai étudié l’Oulipo et j’ai réfléchi aux 
 
 - Essai de disposer de différentes manières le labyrinthe que j’ai créé avec Blender.
 
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/Robin/screenshoot/스크린샷%202025-11-24%2011.55.42.png" alt="스크린샷 2025-11-24 11.55.42.png" width="334" data-align="center">
+<p align="center">
+  <img src="/img/1124.png" width="270">
+</p>
 
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/Robin/screenshoot/스크린샷%202025-11-24%2011.56.03.png" alt="스크린샷 2025-11-24 11.56.03.png" width="334" data-align="center">
+<p align="center">
+  <img src="/img/1124_2.png" width="270">
+</p>
 
 **Problèmes rencontrés**
 
