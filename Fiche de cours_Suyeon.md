@@ -134,7 +134,7 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 **Discussion avec Robin**
 <p align="center">
-  <img src="/img/mandala.jpeg" width="400">
+  <img src="/img/mandala.jpeg" width="350">
 </p>
 <p align="center">
   <img src="/img/labyrinthe.png" width="420">
