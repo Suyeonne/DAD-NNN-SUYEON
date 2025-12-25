@@ -298,7 +298,8 @@ Le joueur passe à travers la clé ; l’ajout d’un collider n’a pas permis 
 
 **Aide**
 
-Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis Blender. [lien]([Comment exporter un objet Blender vers Unity ? - Apprendre Blender](https://apprendre-blender.com/comment-exporter-un-objet-blender-vers-unity/))
+Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis Blender. [lien](https://apprendre-blender.com/comment-exporter-un-objet-blender-vers-unity/)
+
 
 ### Lundi 01 décembre 2025
 
@@ -345,7 +346,7 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
 3. Réflexion sur ce qu’il se passe lorsque le joueur sort du labyrinthe par la porte.
 
 <p align="center">
-  <img src="/img/1202.png" width="400">
+  <img src="/img/1202.png" width="380">
 </p>
 
 **Aide de Robin**
