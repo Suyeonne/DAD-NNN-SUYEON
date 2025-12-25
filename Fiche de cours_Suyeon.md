@@ -134,10 +134,10 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 **Discussion avec Robin**
 <p align="center">
-  <img src="/img/mandala.jpeg" width="300">
+  <img src="/img/mandala.jpeg" width="400">
 </p>
 <p align="center">
-  <img src="/img/labyrinthe.png" width="320">
+  <img src="/img/labyrinthe.png" width="420">
 </p>
 <p align="center"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
 
@@ -162,7 +162,7 @@ Questionnement sur la manière de transformer un motif de labyrinthe précédemm
 - Recherche de temples bouddhistes construits selon une structure de mandala.
 
 <p align="center">
-  <img src="/img/mandala2.jpeg" width="300">
+  <img src="/img/mandala2.jpeg" width="400">
 </p>
 
 *Borobudur, temple bouddhiste conçu selon une structure de mandala*
@@ -211,11 +211,11 @@ Suite à cette proposition, j’ai étudié l’Oulipo et j’ai réfléchi aux 
 - Essai de disposer de différentes manières le labyrinthe que j’ai créé avec Blender.
 
 <p align="center">
-  <img src="/img/1124.png" width="270">
+  <img src="/img/1124.png" width="400">
 </p>
 
 <p align="center">
-  <img src="/img/1124_2.png" width="270">
+  <img src="/img/1124_2.png" width="400">
 </p>
 
 **Problèmes rencontrés**
@@ -238,15 +238,15 @@ Après avoir demandé de l’aide à ChatGPT, j’ai compris que le problème ve
 **Ce que j'ai réalisé**
 
 <p align="center">
-  <img src="/img/1125.png" width="300">
+  <img src="/img/1125.png" width="400">
 </p>
 
 <p align="center">
-  <img src="/img/texture1.png" width="300">
+  <img src="/img/texture1.png" width="400">
 </p>
 
 <p align="center">
-  <img src="/img/1125_2.png" width="550">
+  <img src="/img/1125_2.png" width="600">
 </p>
 
 **Aide de Robin** 
@@ -285,11 +285,11 @@ Cependant, je ne sais pas encore comment exploiter concrètement ce principe dan
 **Ce que j'ai réalisé**
 
 <p align="center">
-  <img src="/img/labyrinthe2.png" width="300">
+  <img src="/img/labyrinthe2.png" width="400">
 </p>
 
 <p align="center">
-  <img src="/img/1128.png" width="300">
+  <img src="/img/1128.png" width="400">
 </p>
 
 **Problèmes rencontrés**
@@ -311,15 +311,15 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
    - [x] Ouvrir la porte uniquement si le joueur possède la clé
 
 <p align="center">
-  <img src="/img/1201.jpeg" width="300">
+  <img src="/img/1201.jpeg" width="400">
 </p>
 
 <p align="center">
-  <img src="/img/1201_2.png" width="300">
+  <img src="/img/1201_2.png" width="400">
 </p>
 
 <p align="center">
-  <img src="/img/1201_3.png" width="300">
+  <img src="/img/1201_3.png" width="400">
 </p>
 
 **Aide de Robin**
@@ -345,7 +345,7 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
 3. Réflexion sur ce qu’il se passe lorsque le joueur sort du labyrinthe par la porte.
 
 <p align="center">
-  <img src="/img/1202.png" width="300">
+  <img src="/img/1202.png" width="400">
 </p>
 
 **Aide de Robin**
