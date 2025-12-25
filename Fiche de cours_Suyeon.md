@@ -139,7 +139,8 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 <p align="center">
   <img src="/img/labyrinthe.png" width="270">
 </p>
- *Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.*
+<p align="right"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
+
 
 - Conseil : commencer par le dessin.
 
