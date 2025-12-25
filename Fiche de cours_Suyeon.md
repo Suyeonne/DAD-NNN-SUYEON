@@ -137,9 +137,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   <img src="/img/mandala.jpeg" width="270">
 </p>
 <p align="center">
-  <img src="/img/labyrinthe.png" width="270">
+  <img src="/img/labyrinthe.png" width="280">
 </p>
-<p align="right"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
+<p align="center"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
 
 - Conseil : commencer par le dessin.
 
@@ -237,11 +237,17 @@ Après avoir demandé de l’aide à ChatGPT, j’ai compris que le problème ve
 
 **Ce que j'ai réalisé**
 
-<img title="" src="file:///Users/suyeon/Desktop/스크린샷%202025-12-24%2016.53.38.png" alt="스크린샷 2025-12-24 16.53.38.png" width="276" data-align="center">
+<p align="center">
+  <img src="/img/1125.png" width="270">
+</p>
 
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/texture/texture1.png" alt="texture1.png" width="278" data-align="center">
+<p align="center">
+  <img src="/img/texture1.png" width="270">
+</p>
 
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/Robin/screenshoot/스크린샷%202025-12-01%2010.36.54.png" alt="스크린샷 2025-12-01 10.36.54.png" width="734" data-align="center">
+<p align="center">
+  <img src="/img/1125_2.png" width="270">
+</p>
 
 **Aide de Robin** 
 
