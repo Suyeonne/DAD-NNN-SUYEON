@@ -162,7 +162,7 @@ Questionnement sur la manière de transformer un motif de labyrinthe précédemm
 - Recherche de temples bouddhistes construits selon une structure de mandala.
 
 <p align="center">
-  <img src="/img/mandala2.jpeg" width="270">
+  <img src="/img/mandala2.jpeg" width="300">
 </p>
 
 *Borobudur, temple bouddhiste conçu selon une structure de mandala*
@@ -238,15 +238,15 @@ Après avoir demandé de l’aide à ChatGPT, j’ai compris que le problème ve
 **Ce que j'ai réalisé**
 
 <p align="center">
-  <img src="/img/1125.png" width="270">
+  <img src="/img/1125.png" width="300">
 </p>
 
 <p align="center">
-  <img src="/img/texture1.png" width="270">
+  <img src="/img/texture1.png" width="300">
 </p>
 
 <p align="center">
-  <img src="/img/1125_2.png" width="450">
+  <img src="/img/1125_2.png" width="550">
 </p>
 
 **Aide de Robin** 
@@ -285,11 +285,11 @@ Cependant, je ne sais pas encore comment exploiter concrètement ce principe dan
 **Ce que j'ai réalisé**
 
 <p align="center">
-  <img src="/img/labyrinthe2.png" width="270">
+  <img src="/img/labyrinthe2.png" width="300">
 </p>
 
 <p align="center">
-  <img src="/img/1128.png" width="270">
+  <img src="/img/1128.png" width="300">
 </p>
 
 **Problèmes rencontrés**
@@ -310,11 +310,17 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
    
    - [x] Ouvrir la porte uniquement si le joueur possède la clé
 
-<img title="" src="file:///Users/suyeon/Desktop/1.png" alt="1.png" width="333" data-align="center">
+<p align="center">
+  <img src="/img/1201.jpeg" width="300">
+</p>
 
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/Robin/screenshoot/스크린샷%202025-12-02%2011.43.09.png" alt="스크린샷 2025-12-02 11.43.09.png" width="331" data-align="center">
+<p align="center">
+  <img src="/img/1201_2.png" width="300">
+</p>
 
-<img title="" src="file:///Users/suyeon/Desktop/스크린샷%202025-12-24%2022.19.00.png" alt="스크린샷 2025-12-24 22.19.00.png" width="334" data-align="center">
+<p align="center">
+  <img src="/img/1201_3.png" width="300">
+</p>
 
 **Aide de Robin**
 
@@ -338,7 +344,9 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
 - [x] Lorsque la porte s’ouvre, le joueur sort du labyrinthe et tombe dans le vide.
 3. Réflexion sur ce qu’il se passe lorsque le joueur sort du labyrinthe par la porte.
 
-<img title="" src="file:///Users/suyeon/Desktop/스크린샷%202025-12-24%2021.53.35.png" alt="스크린샷 2025-12-24 21.53.35.png" width="327" data-align="center">
+<p align="center">
+  <img src="/img/1202.png" width="300">
+</p>
 
 **Aide de Robin**
 
@@ -358,16 +366,20 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
 
 - Présentation du projet....
 
+<p align="center">
+  <img src="/img/1205.JPG" width="600">
+</p>
 
+<p align="center">
+  <img src="/img/1205_2.JPG" width="600">
+</p>
 
-![DSCF3647.JPG](/Users/suyeon/Desktop/Robin/photos/DSCF3647.JPG)
+<p align="center">
+  <img src="/img/1205_3.JPG" width="600">
+</p>
 
-
-
-![DSCF3696.JPG](/Users/suyeon/Desktop/Robin/photos/DSCF3696.JPG)
-
-![DSCF3742.JPG](/Users/suyeon/Desktop/Robin/photos/DSCF3742.JPG)
-
-![스크린샷 2025-12-24 22.15.25.png](/Users/suyeon/Desktop/Robin/photos/스크린샷%202025-12-24%2022.15.25.png)
+<p align="center">
+  <img src="/img/1205_4.JPG" width="600">
+</p>
 
 Merci Robin...
