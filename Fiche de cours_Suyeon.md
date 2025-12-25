@@ -136,10 +136,9 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 <p align="center">
   <img src="/img/mandala.jpeg" width="270">
 </p>
-<img title="" src="file:///Users/suyeon/Desktop/Robin/jeux/Robin/references/Mandala_of_Vajradhatu.jpeg" alt="Mandala_of_Vajradhatu.jpeg" width="261" data-align="center">*Mandala du Vajradhātu (Mandala des Cinq Bouddhas)*
-
-<img title="" src="file:///Users/suyeon/Desktop/labyrinthe.png" alt="labyrinthe.png" width="333" data-align="center">
-
+<p align="center">
+  <img src="/img/labyrinthe.png" width="270">
+</p>
  *Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.*
 
 - Conseil : commencer par le dessin.
