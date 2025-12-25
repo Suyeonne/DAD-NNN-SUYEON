@@ -246,7 +246,7 @@ Après avoir demandé de l’aide à ChatGPT, j’ai compris que le problème ve
 </p>
 
 <p align="center">
-  <img src="/img/1125_2.png" width="270">
+  <img src="/img/1125_2.png" width="350">
 </p>
 
 **Aide de Robin** 
