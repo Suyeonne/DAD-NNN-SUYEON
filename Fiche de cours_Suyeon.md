@@ -246,7 +246,7 @@ Après avoir demandé de l’aide à ChatGPT, j’ai compris que le problème ve
 </p>
 
 <p align="center">
-  <img src="/img/1125_2.png" width="350">
+  <img src="/img/1125_2.png" width="450">
 </p>
 
 **Aide de Robin** 
@@ -284,9 +284,13 @@ Cependant, je ne sais pas encore comment exploiter concrètement ce principe dan
 
 **Ce que j'ai réalisé**
 
-<img title="" src="file:///Users/suyeon/Desktop/labyrinthe2.png" alt="labyrinthe2.png" width="312" data-align="center">
+<p align="center">
+  <img src="/img/labyrinthe2.png" width="270">
+</p>
 
-<img title="" src="file:///Users/suyeon/Desktop/스크린샷%202025-12-24%2021.03.04.png" alt="스크린샷 2025-12-24 21.03.04.png" width="329" data-align="center">
+<p align="center">
+  <img src="/img/1128.png" width="270">
+</p>
 
 **Problèmes rencontrés**
 
