@@ -136,10 +136,12 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 <p align="center">
   <img src="/img/mandala.jpeg" width="350">
 </p>
+
 <p align="center">
   <img src="/img/labyrinthe.png" width="420">
 </p>
 <p align="center"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
+
 
 - Conseil : commencer par le dessin.
 
@@ -148,12 +150,14 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 Suite à ce questionnement :
 Bien qu’ils aient été ajoutés initialement sans intention précise, réflexion sur la manière de relier ces objets au thème du projet et sur leur rôle possible dans le labyrinthe.
 
+
 **Références données par Robin**
 
 - Giant Sparrow, *The Unfinished Swan*
 - Working Simulator ( genre vidéoludique )
 - Fullbright, *GoneHome*
 - M. C. Escher, *Dessins et Gravures*
+
 
 ### Mardi 4 novembre 2024
 
