@@ -38,7 +38,7 @@ Je veille à ce que le sujet du projet soit compréhensible dans l’espace, mai
 
 La barrière de la langue rend la communication parfois difficile, et je manque encore de confiance lors des présentations orales.
 
-## ## PROJETS
+## PROJETS
 
 # Projet 1
 
@@ -142,7 +142,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 </p>
 <p align="center"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
 
-
 - Conseil : commencer par le dessin.
 
 - Questionnement sur la présence d’objets du quotidien à l’intérieur du labyrinthe et sur leur raison d’être.
@@ -150,14 +149,12 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 Suite à ce questionnement :
 Bien qu’ils aient été ajoutés initialement sans intention précise, réflexion sur la manière de relier ces objets au thème du projet et sur leur rôle possible dans le labyrinthe.
 
-
 **Références données par Robin**
 
 - Giant Sparrow, *The Unfinished Swan*
 - Working Simulator ( genre vidéoludique )
 - Fullbright, *GoneHome*
 - M. C. Escher, *Dessins et Gravures*
-
 
 ### Mardi 4 novembre 2024
 
@@ -303,7 +300,6 @@ Le joueur passe à travers la clé ; l’ajout d’un collider n’a pas permis 
 **Aide**
 
 Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis Blender. [lien](https://apprendre-blender.com/comment-exporter-un-objet-blender-vers-unity/)
-
 
 ### Lundi 01 décembre 2025
 
