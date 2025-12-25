@@ -134,10 +134,10 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 **Discussion avec Robin**
 <p align="center">
-  <img src="/img/mandala.jpeg" width="270">
+  <img src="/img/mandala.jpeg" width="300">
 </p>
 <p align="center">
-  <img src="/img/labyrinthe.png" width="280">
+  <img src="/img/labyrinthe.png" width="320">
 </p>
 <p align="center"><em>Labyrinthe précédemment réalisé, dont la structure est inspirée d’un motif de mandala.</em></p>
 
@@ -379,7 +379,7 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
 </p>
 
 <p align="center">
-  <img src="/img/1205_4.JPG" width="600">
+  <img src="/img/1205_4.png" width="600">
 </p>
 
 Merci Robin...
