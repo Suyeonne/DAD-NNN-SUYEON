@@ -368,7 +368,7 @@ Alice m’a envoyé un lien pour m’aider à faire un export plus propre depuis
 - Présentation du projet....
 
 <p align="center">
-  <img src="/img/1205.JPG" width="600">
+  <img src="/img/1205_5.JPG" width="600">
 </p>
 
 <p align="center">
